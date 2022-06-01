@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 buttons = [
     [
                         InlineKeyboardButton(
-                            text=f"Add NekoX To Your Group",
+                            text=f"Add Ookami mio To Your Group",
                             url=f"t.me/Ookamimio?startgroup=true")
                     ],
                    [
